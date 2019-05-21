@@ -1,1 +1,1 @@
-# sistema_venda_simples
+# Sistema de vendas simples
